@@ -246,4 +246,4 @@ export function Island({
   );
 }
 
-export 
+export default Island;
